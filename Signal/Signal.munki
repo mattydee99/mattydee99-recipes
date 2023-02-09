@@ -8,6 +8,8 @@
     <string>com.github.mattydee99.mattydee99-recipes.munki.Signal</string>
     <key>Input</key>
     <dict>
+        <key>MUNKI_REPO_SUBDIR</key>
+        <string>global</string>
         <key>NAME</key>
         <string>Signal</string>
         <key>pkginfo</key>
