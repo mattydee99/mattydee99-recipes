@@ -5,7 +5,7 @@
     <key>Description</key>
     <string>Downloads EclipseTemurin8 and imports it into Munki</string>
     <key>Identifier</key>
-    <string>com.github.mattydee99.mattydee99-recipes.munki.EclipseTemurin8.munki</string>
+    <string>com.github.mattydee99.mattydee99-recipes.munki.EclipseTemurin8</string>
     <key>Input</key>
     <dict>
         <key>MUNKI_REPO_SUBDIR</key>
