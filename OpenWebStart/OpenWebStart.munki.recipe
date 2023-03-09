@@ -31,7 +31,7 @@
     <key>MinimumVersion</key>
     <string>2.0</string>
     <key>ParentRecipe</key>
-    <string>com.github.nstrauss.download.OpenWebStart</string>
+    <string>com.github.nstrauss.pkg.OpenWebStart</string>
     <key>Process</key>
     <array>
         <dict>
